@@ -18,7 +18,7 @@ from PNN import pnn1
 
 # load data
 
-data_folder = 'assist09'
+data_folder = 'ednet'
 if data_folder == 'assist09':
     con_sym = '-'
 elif data_folder == 'ednet':

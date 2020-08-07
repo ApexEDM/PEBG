@@ -43,7 +43,7 @@ embed_dim = pre_pro_embed.shape[1]
 hidden_dim = 128
 lr = 0.001
 use_pretrain = True
-train_embed = True
+train_embed = False
 train_flag = True
 
 
