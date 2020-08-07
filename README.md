@@ -8,8 +8,7 @@ This repository contains the source code of the mdoel PEBG in our paper "Improvi
 
 ### EdNet
 - ednet/data.py: Data pre-process for EdNet dataset. 
-we use the 'ednet-kt1' dataset. You can download it [here](https://drive.google.com/file/d/1AmGcOs5U31wIIqvthn9ARqJMrMTFTcaw/view)
-For more information about [EdNet](https://github.com/riiid/ednet)
+we use the 'ednet-kt1' dataset. You can download it [here](https://drive.google.com/file/d/1AmGcOs5U31wIIqvthn9ARqJMrMTFTcaw/view). For more information about [EdNet](https://github.com/riiid/ednet)
 
 Once you have the ednet-kt1 dataset, you can enter the folder "ednet" and run 'data.py' to pre-process EdNet dataset.
 
